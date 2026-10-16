@@ -1,30 +1,30 @@
-Product Requirements Document (PRD)
-Product Name: Agency Placement & Onboarding Hub (Free B2B SaaS)
-Target Audience: Singapore Employment Agencies (EA Directors & Counter Operations Staff)
-Document Owner: Product Management
-Status: Draft / Initial Scope
+#Product Requirements Document (PRD)
+###Product Name: Agency Placement & Onboarding Hub (Free B2B SaaS)
+###Target Audience: Singapore Employment Agencies (EA Directors & Counter Operations Staff)
+###Document Owner: Product Management
+###Status: Draft / Initial Scope
 
-1. Problem Statement
+##1. Problem Statement
 Singapore Employment Agencies (EAs) operating in the Foreign Domestic Worker (FDW) sector face heavy operational overhead, paper-based friction, and low profit margins per placement:
 Manual Paperwork Overload: Placing a single worker requires filling out, printing, physically signing, and filing 5+ complex document sets (Standard EA Agreements, Salary Deduction Schedules, MOM IPA Letters, Safety Agreements, and House Rules). Counter staff spend 30 to 45 minutes per employer on repetitive paper signing alone.
 Compliance & Chasing Bottlenecks: Post-placement administrative tracking is fragmented across paper folders and manual Excel sheets. Staff waste hours chasing employers and workers for missing documents, 6-Month Medical Exam (6ME) slips, and Work Permit renewal deadlines, creating risk of MOM regulatory fines.
 Low Margin & Static Revenue Streams: Placement fees are facing downward price pressure. Agencies lack turnkey, high-margin ancillary revenue streams at the Point of Sale (POS) beyond static referral commissions from traditional insurers.
 
-2. Expected Impact for Agencies
+##2. Expected Impact for Agencies
 If Pivot C successfully solves these operational bottlenecks for Employment Agencies, the business impact will be:
 70% Reduction in Counter Processing Time: Cuts employer onboarding time from ~45 minutes down to under 10 minutes via mobile e-signatures and pre-filled Singpass/MyInfo workflows.
 80% Decrease in Administrative Chasing: Automated milestone tracking and cloud document storage eliminate manual follow-ups for post-placement MOM statutory deadlines.
 New Zero-CapEx Revenue Stream: Agencies generate an additional S$700–S$1,000+ per month in pure profit (based on 20–30 placements/month) via the S$35 cash bounty paid on every bundled Pivot C 26-month household management package.
 Zero Software Costs: Gives small-to-medium agencies enterprise-grade digital tools at S$0 cost, leveling the playing field against mega-agencies.
 
-3. Core Solutions & Jobs-To-Be-Done (JTBD)
+##3. Core Solutions & Jobs-To-Be-Done (JTBD)
 Core Solution Module	Feature Scope	Job-To-Be-Done (JTBD)
 1. Digital Onboarding & E-Sign Engine	Mobile-friendly digital contract templates (Standard EA Agreement, Salary Deduction, House Rules) with Singpass/e-signature integration.	"When an employer agrees to hire a worker, I want to send them a mobile-friendly digital contract deck to sign instantly, so that I can eliminate physical paper printing and reduce counter signing time to under 10 minutes."
 2. Document Storage & Process Tracker	Centralized Cloud Vault per placement with automated MOM milestone tracking (IPA Issued → Medical Cleared → WP Card Issued → 6ME Alert).	"When managing active worker placements, I want a single dashboard that tracks document status and statutory MOM dates automatically, so that my agency never misses a regulatory deadline or loses critical paperwork."
 3. POS Pivot C Bundle Checkout	Native integration of Pivot C’s S$140 26-Month Household SaaS + Partner Maid Insurance directly inside the employer's digital contract workflow.	"When finalizing a placement contract with an employer, I want to seamlessly offer a bundled household management and maid insurance package, so that I can provide extra value to the employer without extra sales effort."
 4. Real-time Bounty & Earnings Dashboard	Live tracking of completed placements, activated Pivot C packages, and accumulated cash bounties with 1-click PayNow Corporate payouts.	"When reviewing monthly agency performance, I want total visibility over our earned referral bounties and instant cash payouts, so that I can verify new revenue generated for my agency business."
 
-4. Key Assumptions & Risk Prioritization Matrix
+##4. Key Assumptions & Risk Prioritization Matrix
 This table evaluates the critical product and business assumptions required for the Free Agency SaaS to succeed, ranked by Importance (Impact on Business Model) and Unknowns (Level of Uncertainty).
 Assumption ID	Assumption Description	Importance	Uncertainty	Risk Priority	Validation Strategy
 A1: Agency Pitch Pull	Agencies will adopt a new free software portal if it eliminates paper contract signing and saves counter time.	High	Medium	🔴 Critical (Rank 1)	Conduct 10-minute B2B interviews with 10 agency directors in Katong/Lucky Plaza with a click-through prototype.
@@ -33,21 +33,18 @@ A3: Point-of-Sale Conversion	At least 30–40% of employers completing digital a
 A4: Insurer Non-Exclusivity	Agencies are legally and commercially free to recommend Pivot C's bundled insurance package over their existing traditional insurer brokers.	Medium	High	🟠 High (Rank 4)	Review standard EA broker agreements and confirm option flexibility during agency director interviews.
 A5: Counter Staff Adoption	Agency counter staff will find the digital link workflow easier than printing paper and will not revert to manual filing.	Medium	Low	🟢 Medium (Rank 5)	Provide zero-friction onboarding (no staff account creation required; generate contract links via simple web form).
 
-5. Go-To-Market (GTM) Distribution Strategy
+##5. Go-To-Market (GTM) Distribution Strategy
 To acquire agency partners rapidly without burning capital on direct ads, Pivot C executes a targeted 3-Phase B2B GTM strategy:
-[ Phase 1: High-Density Clusters ] ──► [ Phase 2: In-Agency POS Onboarding ] ──► [ Phase 3: Agency Referral Network ]
-Katong, Lucky Plaza, Bukit Timah       Counter displays, digital contract       S$35 PayNow payouts, agency-to-agency
-Direct director outreach               bundling, counter staff training         peer referral bonuses
-Phase 1: High-Density Cluster Blitz (Weeks 1–4)
+###Phase 1: High-Density Cluster Blitz (Weeks 1–4)
 Geographic Targeting: Focus exclusively on the top 3 high-density employment agency hubs in Singapore:
 Katong Shopping Centre
 Lucky Plaza
 Bukit Timah Shopping Centre / Far East Shopping Centre
 Direct Field Sales Outreach: Direct pitch to Agency Directors by founding team: "Digitize 100% of your MOM client paperwork for free, and earn an extra S$875/month in passive revenue."
-Phase 2: In-Agency Point-of-Sale (POS) Bundling (Weeks 5–8)
+###Phase 2: In-Agency Point-of-Sale (POS) Bundling (Weeks 5–8)
 Digital Contract Integration: Embed the Pivot C subscription and maid insurance package directly as a pre-selected or 1-click option inside the digital contract link sent to employers.
 Physical Counter Collateral: Provide partner agencies with acrylic desktop displays and QR stands: "Your Hiring Package Includes 2-Year Pivot C WhatsApp Household Assistant & Wage Protection."
 Staff Onboarding: 15-minute training sessions for agency counter staff showing how to send digital contract links via WhatsApp to employers in 30 seconds.
-Phase 3: Agency Referral Flywheel (Weeks 9–12)
+###Phase 3: Agency Referral Flywheel (Weeks 9–12)
 PayNow Corporate Instant Payouts: Process agency bounties bi-weekly or on-demand via PayNow Corporate, building immediate trust with agency directors.
 Agency Peer-Referral Bonus: Offer an additional S$200 one-off cash bonus to any agency director who introduces another licensed employment agency that completes 5 placements on the platform.
